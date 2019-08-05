@@ -9,4 +9,4 @@
 
 **Output Apk File**
 
-https://github.com/SumitMarwha/TrendingRepository/output/
+https://github.com/SumitMarwha/TrendingRepository/tree/master/output
