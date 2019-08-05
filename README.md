@@ -7,3 +7,6 @@
 - Let the project syncing complete. Need internet for syncing first time
 - Make sure offline mode of android studio is disabled
 
+**Output Apk File**
+
+https://github.com/SumitMarwha/TrendingRepository/output/
