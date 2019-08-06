@@ -50,10 +50,6 @@ class DetailsFragment: BaseFragment(), DetailUrlObserver {
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
             binding.imageView.setTransitionName(binding.repository!!.name)
         }
-
-        Picasso.with(activity)
-            .load(binding.repository!!.repo!!.url)
-            .into(binding.imageView)
     }
 
     override fun openDetails(url: String) {
